@@ -3,7 +3,7 @@ import './Projects.scss'
 import Heading from '../../components/Headings/Heading'
 import ProjectCard from './ProjectCard'
 
-const Projects = () => {
+const Tweaks = () => {
 
   const data = [
     {
