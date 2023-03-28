@@ -2,7 +2,7 @@ import React from 'react'
 import './HomePage.scss'
 
 const HomePage = () => {
-  document.title = 'EdgePlus';
+  document.title = 'Tesla NIT Patna | Home';
   return (
     <div className='pt-16 '>
       <div className='justify-center flex items-center my-[8rem] flex-col text-5xl font-bold'>
